@@ -9,7 +9,7 @@ function App() {
     return (
         
                 <div id="app">
-                    <RouterProvider router={appRouter} />
+                    Hi i am in app
                 </div>
           
     );
